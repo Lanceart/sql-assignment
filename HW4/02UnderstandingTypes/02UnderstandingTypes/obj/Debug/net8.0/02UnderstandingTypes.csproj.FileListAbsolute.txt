@@ -1,0 +1,14 @@
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.exe
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.deps.json
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.runtimeconfig.json
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.dll
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.pdb
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.AssemblyInfoInputs.cache
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.AssemblyInfo.cs
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.dll
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\refint\02UnderstandingTypes.dll
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.pdb
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.genruntimeconfig.cache
+D:\WorkStudio\C_sharp_workplace\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\ref\02UnderstandingTypes.dll
