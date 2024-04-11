@@ -1,0 +1,87 @@
+﻿1. What are the six combinations of access modifier keywords and what do they do? 
+public: members can be access anywhere
+private: members can only be access by current class
+protechtedL member can be accessed by current class and drived class
+internal: member can be accessed in current assembly
+
+2.What is the difference between the static, const, and readonly keywords when applied to a type member?
+static members belong to the type itself rather than an instance, const members are compile-time constants with their values baked into the code, and readonly members can be assigned only during declaration or within a constructor of the class they are defined in.
+
+3. What does a constructor do?
+(1) Constructor is a special type of method which share name of the class and doesn't have any return type; not even void
+(2) It's used to create an object of the class and initalize the class members
+(3) if their is no constuctor the C# compiler will create the defaut constructor without parameterless
+(4) Constructer can be overloaded
+(5) Constructer cannot be inherit, so cannot be overiden
+(6) By default derived class constructor will make a call to a base class constructor
+
+
+4. Why is the partial keyword useful?
+because it allows the definition of a class, struct, or interface to be split into multiple files, facilitating modular development, easier maintenance, and the separation of auto-generated code from developer-written code
+
+
+5. What is a tuple?
+tuples are used to group multiple values into a single
+
+
+6. What does the C# record keyword do?
+provides built-in functionality for value-based equality
+
+7. What does overloading and overriding mean?
+overloading means mutiple methods can have the same name but different parameters in the same class.
+overriding means base class and derived class have the same method name, but the derived class can provide it's own implementation for that method.
+
+8. What is the difference between a field and a property?
+A field is a variable of any type that is declared directly in a class or struct to store data
+And a property is a member that provides a flexible mechanism to read, write
+
+9. How do you make a method parameter optional?
+use optional parameter, so we will set a default value for parameter
+
+10. What is an interface and how is it different from abstract class?
+(1)abstract class will provide a base class to its subclasses. Interface will define common behaviors or functionalities that can be implemented by any class
+(2)one class can only inherit from one abstract or concrete class but one class can implement mutiple interfaces
+(3)methods in abstract class can be abstract method or no-abstract method. methods in interface must are all public and abstract.
+
+
+11. What accessibility level are members of an interface?
+public
+
+
+12. True/False. Polymorphism allows derived classes to provide different implementations of the same method.
+False, that's the definiation of overriding.
+
+13. True/False. The override keyword is used to indicate that a method in a derived class is providing its own implementation of a method.
+yes
+
+14. True/False. The new keyword is used to indicate that a method in a derived class is providing its own implementation of a method.
+No, new keyword used for creating an object
+
+15. True/False. Abstract methods can be used in a normal (non-abstract) class. 
+No, abstract methods must exist in abstract class
+
+16. True/False. Normal (non-abstract) methods can be used in an abstract class. 
+yes
+
+17. True/False.
+Derived classes can override methods that were virtual in the base class.
+yes
+
+18. True/False.
+Derived classes can override methods that were abstract in the base class. 
+yes
+
+19. True/False. In a derived class, you can override a method that was neither virtual non abstract in the base class.
+No, must use virtual or abstract key word
+
+20. True/False. A class that implements an interface does not have to provide an implementation for all of the members of the interface.
+No
+
+21. True/False. A class that implements an interface is allowed to have other members thataren’t defined in the interface.
+yes
+
+22. True/False. A class can have more than one base class.
+No. in C# only can have single base class
+
+23. True/False. A class can implement more than one interface
+yes

@@ -1,0 +1,14 @@
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\obj\Debug\net8.0\TaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\obj\Debug\net8.0\TaskTwo.AssemblyInfoInputs.cache
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\obj\Debug\net8.0\TaskTwo.AssemblyInfo.cs
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\obj\Debug\net8.0\TaskTwo.csproj.CoreCompileInputs.cache
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\bin\Debug\net8.0\TaskTwo.exe
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\bin\Debug\net8.0\TaskTwo.deps.json
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\bin\Debug\net8.0\TaskTwo.runtimeconfig.json
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\bin\Debug\net8.0\TaskTwo.dll
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\bin\Debug\net8.0\TaskTwo.pdb
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\obj\Debug\net8.0\TaskTwo.dll
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\obj\Debug\net8.0\refint\TaskTwo.dll
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\obj\Debug\net8.0\TaskTwo.pdb
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\obj\Debug\net8.0\TaskTwo.genruntimeconfig.cache
+D:\WorkStudio\C_sharp_workplace\TaskTwo\TaskTwo\obj\Debug\net8.0\ref\TaskTwo.dll
