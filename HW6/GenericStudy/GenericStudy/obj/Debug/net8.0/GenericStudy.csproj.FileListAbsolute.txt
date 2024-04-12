@@ -1,0 +1,14 @@
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\bin\Debug\net8.0\GenericStudy.exe
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\bin\Debug\net8.0\GenericStudy.deps.json
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\bin\Debug\net8.0\GenericStudy.runtimeconfig.json
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\bin\Debug\net8.0\GenericStudy.dll
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\bin\Debug\net8.0\GenericStudy.pdb
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\obj\Debug\net8.0\GenericStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\obj\Debug\net8.0\GenericStudy.AssemblyInfoInputs.cache
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\obj\Debug\net8.0\GenericStudy.AssemblyInfo.cs
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\obj\Debug\net8.0\GenericStudy.csproj.CoreCompileInputs.cache
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\obj\Debug\net8.0\GenericStudy.dll
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\obj\Debug\net8.0\refint\GenericStudy.dll
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\obj\Debug\net8.0\GenericStudy.pdb
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\obj\Debug\net8.0\GenericStudy.genruntimeconfig.cache
+D:\WorkStudio\C_sharp_workplace\GenericStudy\GenericStudy\obj\Debug\net8.0\ref\GenericStudy.dll
